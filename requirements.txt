@@ -1,8 +1,8 @@
-app==0.0.1
-faiss_cpu==1.12.0
-mistralai==3.8.0
-numpy==2.5.5
-pandas==1.5.3
-rdflib==7.6.0
-sentence_transformers==5.1.2
-streamlit==1.54.0
+--extra-index-url https://download.pytorch.org/whl/cpu
+faiss-cpu
+mistralai
+numpy
+pandas
+rdflib
+sentence-transformers
+streamlit
