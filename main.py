@@ -10,7 +10,6 @@ from city_matching.city_matching import compute_city_weight
 from type_classification.project_type_matching import match_project_type
 import random
 from rdflib import Namespace, RDF
-import hmac
 
 ECRM = Namespace("http://erlangen-crm.org/240307/")
 # -----------------------------
@@ -834,20 +833,3 @@ if st.session_state.active_mode == "random" and st.session_state.random_results 
                 use_container_width=True,
                 key="download_random_json",
             )
-
-
-    def check_password():
-        if st.session_state.get("password_correct"):
-            return True
-        pw = st.text_input("Passwort", type="password")
-        if pw:
-            if hmac.compare_digest(pw, st.secrets["APP_PASSWORD"]):
-                st.session_state["password_correct"] = True
-                st.rerun()
-            else:
-                st.error("Falsches Passwort")
-        return False
-
-
-    if not check_password():
-        st.stop()
