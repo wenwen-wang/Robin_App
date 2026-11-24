@@ -1,0 +1,132 @@
+[
+  {
+    "AUTOpie_Parklet": "Die „Autopie“ ist ein  aus einem umgedrehten Auto gebautes Parklet, initiiert von der Gruppe „Nürnberg autofrei“. Es wird an verschiedenen Orten in Nürnberg aufgestellt, etwa an der Peter-Henlein-Straße oder am Fenitzerplatz.\nEntstehung und Gestaltung erfolgen gemeinschaftlich mit Bürger*innen und lokalen Initiativen. Ziel ist es, auf die Verkehrswende und die Umwandlung von Parkplätzen in öffentliche Räume aufmerksam zu machen.",
+    "Project_type": "Parklet",
+    "Reason":"The project belongs to a parklet because it converts parking spaces into publicly accessible social spaces, using a repurposed car to reclaim urban space from vehicle use for community interaction."
+  },
+  {
+    "Südstadt_Parklet_Karl-Bröger-Straße": "Das Projekt Parklets Nürnberg verwandelte in der Süd- und Weststadt offizielle Parkplätze in partizipativ gestaltete, temporäre Treffpunkte. In Koproduktion mit N.Ort und unter Einbindung von Pat*innen wurden die städtisch geförderten Parklets zu Orten der Selbstermächtigung und Begrünung, um den urbanen Raum neu zu beleben.",
+    "Project_type": "Parklet",
+    "Reason": "It temporarily transforms official parking spaces into publicly accessible, participatory meeting places that enhance urban space through community use and greening."
+  },
+  {
+    "Amt_für_Ideen": "Das Amt für Ideen unterstützte Bürger*innen im Quartier U1 dabei, ihre Ideen zur Stadtgestaltung in Projekte umzusetzen – mit Beratung, Ideensprechstunden und Anschubfinanzierung bis 400 €.",
+    "Project_type": "Idea_consulting",
+    "Reason": "It provides structured advice and support to develop citizens’ urban ideas."
+  },
+  {
+    "Anders_Gründen": "Anders Gründen ist Anlaufstelle, Ideenschmiede und Accelerator für soziale, ökologische und kulturelle Innovationen in Nordbayern und unterstützt Menschen sowie Organisationen dabei, gemeinwohlorientiert und transformativ zu handeln. Im Mittelpunkt steht, gesellschaftliche Herausforderungen durch unternehmerisches Denken, kreative Formate und menschzentrierte Beratung zu lösen und nachhaltige, sozial tragfähige Projekte umzusetzen. Das Programm fördert Social Entrepreneurship nach der Definition des SEND e.V., bei dem nicht Gewinnstreben, sondern die Lösung gesellschaftlicher Probleme im Vordergrund steht.",
+    "Project_type": "Idea_consulting",
+    "Reason":"It advises innovators through guidance to develop sustainable social projects."
+  },
+  {
+    "Arteninsel_Schlossäcker": "Die Arteninsel Schlossäcker ist ein Biodiversitätsprojekt in Nürnberg, bei dem eine bisher ungenutzte Fläche in eine „Mini-Waldinsel“ mit heimischen Bäumen und Sträuchern umgewandelt wurde. Das Projekt wird von Arteninseln e.V. in Kooperation mit dem Jugendtreff Schlossäcker betrieben und von der Stadt Nürnberg über den Fonds Möglichkeitsräume gefördert. Ziel ist es, Biodiversität im urbanen Raum zu fördern, Lebensräume für Tiere und Pflanzen zu schaffen und Jugendliche sowie Anwohner*innen aktiv in Umweltbildung und Naturschutz einzubeziehen.",
+    "Project_type": "Urban_green_spaces",
+    "Reason": "It creates biodiversity-rich green habitats by transforming unused urban land."
+  },
+  {
+    "Die_Wiese": "Die Wiese ist ein gemeinschaftlich genutztes, unbebautes Grundstück im Nürnberger Stadtteil Steinbühl, das als offene Grünfläche für Nachbarinnen und Stadtbewohnerinnen dient. Hier wird gemeinsam gegärtnert, gekocht, repariert und gelernt – etwa in Hochbeeten, einer Outdoor-Küche, bei Workshops zu nachhaltigem Lebensstil oder in der mobilen Fahrradwerkstatt. Auch ein SoLaWi-Depot (Solidarische Landwirtschaft) ist Teil des Projekts. Ziel ist es, einen Mutmacher-Ort zu schaffen, der Menschen zusammenbringt und das Miteinander im Stadtteil stärkt.",
+    "Project_type": "Urban_green_spaces",
+    "Reason": "It provides a shared urban green area for community gardening."
+  },
+  {
+    "Bücherschrank_Bielingplatz": "Der Bücherschranke in St. Johannis wurde gemeinsam mit der Bürgerstiftung Nürnberg umgesetzt. Die Peter-Vischer-Schule beteiligte sich, um besonders junge Menschen zum Lesen und Mitmachen zu motivieren. Der Bücherschrank bietet allen im Viertel kostenlosen Zugang zu Lesestoff und soll das gemeinschaftliche Engagement und die Lesekultur fördern.",
+    "Project_type": "Public_bookcase",
+    "Reason": "It offers free, public access to shared books in neighbourhood."
+  },
+  {
+    "Bücherschrank_am_Nordostbahnhof": "Der Bücherschrank bietet allen im Viertel kostenlosen Zugang zu Lesestoff und soll das gemeinschaftliche Engagement und die Lesekultur fördern.",
+    "Project_type": "Public_bookcase",
+    "Reason": "It offers free, public access to shared books in neighbourhood."
+  },
+  {
+    "Begegnungsort_Heizhaus": "Das Heizhaus ist ein Pilotprojekt des Quellkollektivs, das im Klinkerbau am Quelleturm in Nürnberg angesiedelt ist. Das Heizhaus wird gemeinschaftlich und selbstorganisiert betrieben. Es bietet Raum für kreative, handwerkliche und gemeinschaftliche Aktivitäten, darunter Workshops, Kunstaktionen, Repaircafés, Textilwerkstätten, Chorproben und Treffen des Hackspace. Das Heizhaus versteht sich als offener Möglichkeitsraum für Intuition, Kreativität und soziale Begegnung. Es fördert nachhaltige, gemeinschaftliche und inklusive Stadtentwicklung – ein Ort, an dem Menschen experimentieren, lernen und gemeinsam gestalten können.",
+    "Project_type": "Open_makerspace",
+    "Reason": "It provides an open, community-run space for making, repairing, and experimenting."
+  },
+  {
+    "BikeKitchen": "Die BikeKitchen ist ein Projekt von Rückenwind e.V. Mit der Vermittlung von Wissen möchten wir Selbständigkeit und Selbstvertrauen stärken. Wir wollen Nachhaltigkeit und Mobilität fördern, Spass am Reparieren und Schrauben in Gemeinschaft bieten und uns für Menschen einsetzen, die keine Möglichkeit haben das Radfahren zu genießen.",
+    "Project_type": "Open_makerspace",
+    "Reason": "It provides a shared, community-run space for hands-on bicycle repair, learning, and collaborative making."
+  },
+  {
+    "RadAmbulanz_die_mobile_Fahrradwerkstatt": "Die RadAmbulanz ist eine mobile Fahrradwerkstatt des Bluepingu-Projekts Die Wiese in Nürnberg. Mit einem ausgestatteten Lastenrad bietet sie an wechselnden Standorten Hilfe zur Selbsthilfe bei Fahrradreparaturen, besonders für Menschen, die keinen Zugang zu einer Werkstatt haben. Die Initiative soll Fahrräder wieder fahrtüchtig machen, das Selbstreparieren fördern und zur nachhaltigen Mobilität beitragen. Hauptstandort ist das Urban-Gardening-Gelände in der Wiesenstraße 19, daneben gibt es Einsätze an weiteren Orten in Nürnberg. Unterstützt wird das Projekt durch Sachspenden (Fahrräder, Werkzeuge, Ersatzteile) und ehrenamtliche Helfer*innen.",
+    "Project_type": "Open makerspace",
+    "Reason": "It enables shared, hands-on bicycle repair, learning, and community collaboration."
+  },
+  {
+    "Die_Schenke_Umsonstladen": "Ein Umsonstladen, in dem gebrauchte, gut erhaltene Dinge kostenlos weitergegeben werden. Teilen statt Wegwerfen und sozialem Austausch im Stadtteil. ede*r kann Dinge bringen oder mitnehmen – ohne Geld, einfach nach dem Prinzip des Gebens und Nehmens.",
+    "Project_type": "Free_shop",
+    "Reason": "It enables free exchange of goods without money, promoting sharing."
+  },
+  {
+    "Umsonstladen_Nürnberg": "Der Umsonstladen Nürnberg wurde 2008 vom gemeinnützigen Verein Jesus Freaks – Nbg. e.V. gegründet und bietet einen Raum, in dem gebrauchte, noch nutzbare Dinge kostenlos weitergegeben werden können. Ziel ist nicht nur Müllvermeidung und Ressourcenschonung, sondern auch die Förderung von Nachbarschaft und Gemeinschaft im Stadtteil Gostenhof. Der Laden wird heute überwiegend ehrenamtlich getragen und durch Spenden finanziert, wodurch er sich weitgehend selbst erhält.",
+    "Project_type": "Free_shop",
+    "Reason": "It freely redistributes usable goods without payment, encouraging reuse and community."
+  },
+  {
+    "KOLEO": "Das KOLEO ist eine 160 m² große Lern- und Kreativwerkstatt in der Leonhardstr. 20A mitten in Nürnberg Gostenhof. Der Raum ist mit modularen, mobilen Möbeln, Workshopmaterialien und Technik ausgestattet. Das KOLEO ist als Kreativwerkstatt für Projekte, Workshops und Treffen verschiedenster Art mietbar und eignet sich für Formate mit 5 bis 40 Personen. Hier können z.B. Workshops, Team-Meetings, Klausurtagungen, offene Begegnungstreffen und kleine Kultur- oder Bewegungsformate stattfinden. Eurer Kreativität könnt ihr hier freien Lauf lassen.",
+    "Project_type": "Concept_development_workshop",
+    "Reason": "It provides space and tools for collaborative idea development workshops."
+  },
+  {
+    "Lastenrad_AUDREY": "Das Lastenpedelec „AUDREY“ ist ein elektrisch unterstütztes Lastenrad für Transporte im Stadtbereich. Es eignet sich für Einkäufe, Ausflüge, Umzüge oder Kindertransporte und bietet dank einer abnehmbaren Frontwand ein leichtes Be- und Entladen. Die Transportbox verfügt über eine Sitzbank mit Stauraum, Sicherheitsgurte für Kinder und eine Halterung für Sonnenschirme, wodurch das Rad auch als mobiler Infostand genutzt werden kann. Hydraulische Scheibenbremsen sorgen für sicheres Anhalten, und eine Parkstütze verhindert das Kippen beim Beladen.",
+    "Project_type":"Community_cargo_bike",
+    "Reason": "It provides shared electric cargo transport for community use locally."
+  },
+  {
+    "Lastenrad_ZaBiene": "ZaBiene ist ein Elektromodell des holländischen Lastenrad-Spezialisten Bakfiets.\nEs kann mit 100 kg beladen werden. Sechs umklappbare Kindersitze mit Gurt gehören zur Ausstattung.",
+    "Project_type":"Community_cargo_bike",
+    "Reason": "It is a shared electric cargo bike for transporting people and goods."
+  },
+  {
+    "RadAmbulanz_die_mobile_Fahrradwerkstatt": "Die RadAmbulanz ist eine mobile Fahrradwerkstatt des Bluepingu-Projekts Die Wiese in Nürnberg. Mit einem ausgestatteten Lastenrad bietet sie an wechselnden Standorten Hilfe zur Selbsthilfe bei Fahrradreparaturen, besonders für Menschen, die keinen Zugang zu einer Werkstatt haben. Die Initiative soll Fahrräder wieder fahrtüchtig machen, das Selbstreparieren fördern und zur nachhaltigen Mobilität beitragen. Hauptstandort ist das Urban-Gardening-Gelände in der Wiesenstraße 19, daneben gibt es Einsätze an weiteren Orten in Nürnberg. Unterstützt wird das Projekt durch Sachspenden (Fahrräder, Werkzeuge, Ersatzteile) und ehrenamtliche Helfer*innen.",
+    "Project_type": "Community_cargo_bike",
+    "Reason": "It uses a shared cargo bike to deliver mobile community services."
+  },
+  {
+    "Leonhardsgärtla": "Leonhardsgärtla ist ein Nachbarschaftstreff mit Sitzbänken, Pflanztrögen und einem Bücherschrank. Mit dem \"Leonhardsgärtla\" ist ein Ort entstanden, an dem sich Menschen aus dem Stadtteil zwanglos begegnenkönnen. Ebenso kann der Nachbarschaftstreff für bürgerorientierte Veranstaltungsformate genutzt werden.Pflege und Organisation übernimmt der Verein.",
+    "Project_type":"Neighbourhood_governance",
+    "Reason": "It is managed and maintained by residents through collective neighbourhood responsibility."
+  },
+  {
+    "StadtTeilBazar": "Der StadtTeil Basar des Urban Lab in Gostenhof ist ein kostenloser Flohmarkt ohne Standgebühr. Er fand am 13. und 27. April 2024 im Hof des Nachbarschaftshauses Gostenhof statt. Teilnehmende erhielten Tisch und Bank gestellt. Specials waren ein Marktstandbau am Veit-Stoß-Platz und ein Fahrradmarkt.",
+    "Project_type": "Neighbourhood_bazaar",
+    "Reason": "It hosts a free local market enabling neighbourhood exchange and interaction."
+  },
+  {
+    "Türen_öffnen": "TÜREN ÖFFNEN vermittelt Kooperationen zwischen Unternehmen und gemeinnützigen Organisationen in der Region Nürnberg, um gesellschaftliche Verantwortung in der Wirtschaft zu fördern. Das Projekt unterstützt durch Beratung, Partnerschaftstage und Corporate-Volunteering-Formate, um nachhaltige Kooperationen zu etablieren und soziale Wirkung zu erzielen.",
+    "Project_type": "Corporate_social_engagement_platform",
+    "Reason": "It connects companies with nonprofits to enable corporate volunteering partnerships."
+  },
+  {
+    "ÖffentlicherPflanzenNahVerzehr": "Der ÖffentlicherPflanzenNahVerzehr (ÖPNV) ist ein autarkes Gewächshausprojekt des Urban Lab und der Essbaren Stadt Nürnberg. Mit Abwärme, Solartechnik, intelligenter Steuerung und LED-Beleuchtung wird gezeigt, wie Gemüse und Kräuter im Winter energieneutral angebaut werden können. Das Projekt steht derzeit vor der Gustav-Adolf-Gedächtniskirche in der Südstadt und liefert auch Jungpflanzen für Naschgärten in Nürnberg. Es wird vom Fonds Möglichkeitsräume und dem Agenda 21 Fonds der Stadt Nürnberg gefördert.",
+    "Project_type": "Edible_green_space",
+    "Reason": "It produces edible plants in urban space for community consumption."
+  },
+  {
+    "Vischers_Hochbete": "Seit Mai 2020 gibt es im Innenhof von Vischers Kulturladen in Nürnberg zwei Hochbeete aus recycelten Einmalpaletten. Auf rund 4 m² werden dort in Kreislaufwirtschaft Gemüse und Pflanzen gepflegt. Ehrenamtliche kümmern sich liebevoll um Gießen, Pflanzen und Ernten – ein urbanes Freizeitprojekt mit Nachhaltigkeitscharakter.",
+    "Project_type": "Edible_green_space",
+    "Reason": "It grows edible plants in shared urban space for community use."
+  },
+  {
+    "Vischers_Hochbete": "Seit Mai 2020 gibt es im Innenhof von Vischers Kulturladen in Nürnberg zwei Hochbeete aus recycelten Einmalpaletten. Auf rund 4 m² werden dort in Kreislaufwirtschaft Gemüse und Pflanzen gepflegt. Ehrenamtliche kümmern sich liebevoll um Gießen, Pflanzen und Ernten – ein urbanes Freizeitprojekt mit Nachhaltigkeitscharakter.",
+    "Project_type": "Urban_green_space",
+    "Reason": "It creates and maintains green areas that enhance ecology and urban life."
+  },
+  {
+    "WasserAmbulanz": "Die WasserAmbulanz ist ein selbstgebauter Fahrradanhänger mit Wassertanks, der kostenlos ausgeliehen werden kann, um Stadtbäume zu gießen. Ziel des Projekts ist es, Bürger*innen zur aktiven Mithilfe beim Erhalt der Stadtbäume zu motivieren, da diese unter Trockenheit und Hitze leiden und die städtische Bewässerung nicht mehr ausreicht. Der Anhänger ermöglicht es, auch schwer erreichbare Bäume einfach zu versorgen.",
+    "Project_type": "Water_sensitive_urban_intervention",
+    "Reason": "It supports urban water management by enabling community-led tree watering."
+  },
+  {
+    "Grüne_Werbung": "Das Projekt möchte Litfaßsäulen und Plakatwände begrünen, um bestehende Stadtflächen für das Stadtklima und die Biodiversität nutzbar zu machen. Die begrünten Flächen wirken kühlend, speichern Wasser, bieten Lebensraum für Insekten und tragen zu einem schöneren Stadtbild bei. Der erste Standort befindet sich in Langwasser (Karl-Schönleben-Straße / Berthold-Brecht-Straße).",
+    "Project_type":"nsitive_urban_intervention",
+    "Reason": "It integrates greenery to retain water, cool climate, and support biodiversity."
+  },
+  {
+    "Rough_Sleepers_Occupied_Wall_Space": "Winfried Baumann ist ein Nürnberger Künstler, Architekt und Designer, der sich mit Themen wie Mobilität, Obdachlosigkeit und urbanem Leben beschäftigt und entwickelt modulare, mobile Systeme für den Alltag von Menschen ohne festen Wohnsitz. Unter dem Label Instant Housing, Instant Cooking oder Instant Help entwirft er transportable Schlaf-, Koch- und Versorgungseinheiten, die auf engstem Raum Grundbedürfnisse abdecken. Das Projekt positioniert sich zwischen Kunst, Architektur und sozialem Design und spiegelt Baumanns Anliegen wider, ästhetische und funktionale Lösungen für gesellschaftliche Herausforderungen zu schaffen.",
+    "Project_type": "Mobile_housing",
+    "Reason": "It qualifies as mobile housing because it provides transportable, modular living units that temporarily meet essential housing needs for people without permanent shelter."
+  }
+]
