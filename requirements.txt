@@ -1,6 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 faiss-cpu
-mistralai
+mistralai==1.9.10
 numpy
 pandas
 rdflib
